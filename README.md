@@ -1,6 +1,6 @@
 # ViewTexForge
 
-**ViewTexForge** は、Blender 上の 3D モデルから複数視点の画像をキャプチャし、ComfyUI を利用した AI テクスチャ生成、生成画像の 3D モデルへの再投影・統合までを一連の流れで実行するための Blender アドオンです。
+ViewTexForge 是一个 Blender 插件，它允许您从 Blender 中 3D 模型的多个视角捕获图像，使用 ComfyUI 生成 AI 纹理，然后在单个工作流程中将生成的图像重新投影并集成到 3D 模型上。
 
 > Release: **v1.0**  
 > Target: **Blender 5.1.x**
